@@ -1,2 +1,2 @@
-# basicPortfolio
-Homework #1
+# portfolio
+First go at my porfolio
